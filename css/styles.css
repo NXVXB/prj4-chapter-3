@@ -6,9 +6,10 @@ Body {
 	font-family: sans-serif; 
 	font-size: 18px; 
 	background: white;
-	
-}
+	margin: 0px;
+	padding: 0px;
 
+}
 
 header {
 	
