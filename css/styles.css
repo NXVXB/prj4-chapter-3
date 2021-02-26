@@ -1,5 +1,25 @@
- h2 {color: red; text-decoration: underline; font-size: 20px; } 
- h3 {color: orange; font-size: 20px; } 
- h5 {color: lightblue; font-size: 20px; } 
- #my-id { background-color: lightblue; font-style:italic; }
- .my-class { color:orange; background-color:lightblue; border:1px solid blue; text-align:center; padding:0.5em; }
+
+
+{margin: 0;
+	padding: 0;
+		
+}
+Body {
+	font-family: sans-serif; 
+	
+}
+header,footer	{
+	Background: darkslategrey; 
+	color: white;
+	text-align: center
+}
+
+
+
+
+
+h2 {color: red; text-decoration: underline; font-size: 20px; } 
+h3 {color: orange; font-size: 20px; } 
+h5 {color: lightblue; font-size: 20px; } 
+#my-id { background-color: lightblue; font-style:italic; }
+.my-class { color:orange; background-color:lightblue; border:1px solid blue; text-align:center; padding:0.5em; }
