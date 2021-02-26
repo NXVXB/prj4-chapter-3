@@ -42,6 +42,9 @@ nav a {
 	
 }
 
+nav a:hover {
+	color: red;
+}
 
 h2 {color: red; text-decoration: underline; font-size: 20px; } 
 h3 {color: orange; font-size: 20px; } 
