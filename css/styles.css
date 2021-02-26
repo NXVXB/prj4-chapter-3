@@ -5,7 +5,8 @@ Body {
 	
 }
 header,footer	{
-	Background: darkslategrey; 
+	
+	background-image: url("../images/boom.jpg");
 	color: white;
 	text-align:center;
 	padding: 20px; 
