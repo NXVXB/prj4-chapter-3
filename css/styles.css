@@ -1,15 +1,24 @@
 
 Body {
 	font-family: sans-serif; 
-	font-size: 18px;
+	font-size: 18px; 
+	background: white;
 	
 }
-header,footer	{
+header {
 	
 	background-image: url("../images/boom.jpg");
 	color: white;
 	text-align:center;
 	padding: 20px; 
+}
+
+footer {
+	background: darkslategrey;
+	color: white;
+	text-align:center;
+	padding: 20px; 
+	
 }
 
 h1 { 
