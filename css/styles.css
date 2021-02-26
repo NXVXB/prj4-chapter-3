@@ -1,9 +1,10 @@
-
-
 {margin: 0;
 	padding: 0;
 		
 }
+
+
+
 Body {
 	font-family: sans-serif; 
 	
@@ -11,11 +12,35 @@ Body {
 header,footer	{
 	Background: darkslategrey; 
 	color: white;
+	text-align:center;
+	padding: 20px; 
+
+}
+
+h1 { 
+	font-size: 30px; 
+}
+
+li {
+	display: inline-block; 
+	background: darkslategrey;
+	padding: 10px; 
+	margin-top: 2px;	
+}
+
+nav { 
 	text-align: center
 }
 
+a{ 
+color:darkgrey
+}
 
-
+nav a {
+	text-decoration: none;
+	font-size: 15px;
+	
+}
 
 
 h2 {color: red; text-decoration: underline; font-size: 20px; } 
